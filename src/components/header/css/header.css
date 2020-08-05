@@ -18,13 +18,13 @@
 }
 
 .header-wrapper .partner-container .partner-logo {
-    background-image: url(/src/images/partner.png);
+    background-image: url(\src\images\partner.png);
     height: 70px;
     width: 250px;
 }
 
 .header-wrapper .header-logo-container .header-ubs-logo {
-    background-image: url(/src/images/header-logo.png);
+    background-image: url(\src\images\header-logo.png);
     height: 80px;
     width: 300px;
 }

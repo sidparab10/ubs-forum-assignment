@@ -28,11 +28,11 @@
 }
 
 .footer-wrapper .contact-us-container .contact-icon {
-    background-image: url(/src/images/contact.png);
+    background-image: url(\src\images\contact.png);
 }
 
 .footer-wrapper .contact-us-container .mail-icon {
-    background-image: url(/src/images/mail.png);
+    background-image: url(\src\images\mail.png);
 }
 
 .footer-wrapper .contact-us-container .contact-number-container {
@@ -71,7 +71,7 @@
 }
 
 .footer-wrapper .social-container .footer-logo {
-    background-image: url(/src/images/footer-logo.png);
+    background-image: url(\src\images\footer-logo.png);
     height: 60px;
     width: 180px;
     background-size: contain;
@@ -93,15 +93,15 @@
 }
 
 .footer-wrapper .social-container .social-link-container .linkedin {
-    background-image: url(/src/images/linkedin.png);
+    background-image: url(\src\images\linkedin.png);
 }
 
 .footer-wrapper .social-container .social-link-container .facebook {
-    background-image: url(/src/images/facebook.png);
+    background-image: url(\src\images\facebook.png);
 }
 
 .footer-wrapper .social-container .social-link-container .twitter {
-    background-image: url(/src/images/twitter.png);
+    background-image: url(\src\images\twitter.png);
 }
 
 @media screen and (max-width: 400px) {
