@@ -1,0 +1,111 @@
+.footer-wrapper {
+    background-color: #000;
+    padding: 20px;
+}
+
+.footer-wrapper .contact-us-container {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #fff;
+}
+
+.footer-wrapper .contact-us-container .contact-detail {
+    width: 100%;
+}
+
+.footer-wrapper .contact-us-container .icon {
+    display: inline-block;
+    vertical-align: middle;
+    height: 50px;
+    width: 50px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.footer-wrapper .contact-us-container .label {
+    margin-top: 5px;
+}
+
+.footer-wrapper .contact-us-container .contact-icon {
+    background-image: url(/src/images/contact.png);
+}
+
+.footer-wrapper .contact-us-container .mail-icon {
+    background-image: url(/src/images/mail.png);
+}
+
+.footer-wrapper .contact-us-container .contact-number-container {
+    color: #fff;
+}
+
+.footer-wrapper a {
+    color: #15c;
+}
+
+.footer-wrapper .about-us-container {
+    color: #fff;
+    margin: auto;
+    padding: 10px;
+    min-width: 300px;
+    border-bottom: 2px solid #fff;
+}
+
+.footer-wrapper .about-us-container .line {
+    font-size: 10px;
+    margin-top: 15px;
+}
+
+.footer-wrapper .about-us-container .bold-line {
+    font-weight: bold;
+}
+
+.footer-wrapper .about-us-container .dark-text {
+    color: #222;
+}
+
+.footer-wrapper .social-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-wrapper .social-container .footer-logo {
+    background-image: url(/src/images/footer-logo.png);
+    height: 60px;
+    width: 180px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.footer-wrapper .social-container .social-link-container {
+    display: flex;
+    align-items: center;
+}
+
+.footer-wrapper .social-container .social-link-container .link {
+    height: 20px;
+    width: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 10px;
+}
+
+.footer-wrapper .social-container .social-link-container .linkedin {
+    background-image: url(/src/images/linkedin.png);
+}
+
+.footer-wrapper .social-container .social-link-container .facebook {
+    background-image: url(/src/images/facebook.png);
+}
+
+.footer-wrapper .social-container .social-link-container .twitter {
+    background-image: url(/src/images/twitter.png);
+}
+
+@media screen and (max-width: 400px) {
+    .footer-wrapper .contact-us-container {
+        display: block;
+    }
+}

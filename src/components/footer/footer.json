@@ -1,0 +1,10 @@
+{
+    "title": "footer",
+    "addCss": ["footer"],
+    "addScript": [],
+    "data": {
+        "contact": "+1800 255 2200",
+        "mail": "Contact Us",
+        "about-us": "<div class='line bold-line line-1'>UBS FORUMS respects your privacy.</div><div class='line line-2'>UBS Forums takes precautions to protect your information and make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. We use cookies for better user experience. By using this site, you represent that you are at least the age of majority in your state or province of residence. The third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us. We reserve the right to modify this privacy policy at any time, so please review it frequently.</div><div class='line line-3'><a href='http://www.unsubscribeubsforums/unsubscribe'>Unsubscribe</a> <span class='dark-text'>from our mailing list</span></div>"
+    }
+}

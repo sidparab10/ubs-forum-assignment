@@ -1,0 +1,9 @@
+{
+    "title": "header",
+    "addCss": ["header"],
+    "addScript": [],
+    "data": {
+        "partner-alt-text": "Partner Logo",
+        "header-ubs-alt-text": "UBS Forum Logo"
+    }
+}

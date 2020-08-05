@@ -1,0 +1,42 @@
+.header-wrapper {
+    display: block;
+}
+
+.header-wrapper .logo-container {
+    display: flex;
+    width: 100%;
+}
+
+.header-wrapper .logo-container .logo {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.header-wrapper .partner-container {
+    justify-content: flex-end;
+}
+
+.header-wrapper .partner-container .partner-logo {
+    background-image: url(/src/images/partner.png);
+    height: 70px;
+    width: 250px;
+}
+
+.header-wrapper .header-logo-container .header-ubs-logo {
+    background-image: url(/src/images/header-logo.png);
+    height: 80px;
+    width: 300px;
+}
+
+@media screen and (max-width: 400px) {
+    .header-wrapper .partner-container .partner-logo {
+        height: 40px;
+        width: 140px;
+    }
+
+    .header-wrapper .header-logo-container .header-ubs-logo {
+        height: 50px;
+        width: 200px;
+    }
+}

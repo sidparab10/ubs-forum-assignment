@@ -1,0 +1,14 @@
+{
+    "title": "main",
+    "addCss": ["main-comp"],
+    "addScript": [],
+    "data": {
+        "content-img-alt": "Content image",
+        "content-title": "Supply Chain Agility in Times of Change",
+        "content-subtitle": "\"Reimagining the Next Normal with Intelligent Supply chain\"",
+        "register-btn-label": "Register now",
+        "date": "Thursday, 09th July 2020",
+        "time": "02.00 PM – 05.00 PM",
+        "letter": "<div class='line-1 bold-line line'>Dear Customer,</div><div class='line-2 line'>In the wake of the pandemic, the supply chain function and networks have been most impacted as physical movements of Goods, People and Resources came to a grinding halt. This awakening calls for Business and Supply Chain Leaders to reprioritize empowering supply chain with automation and technology to enable a stronger and more resilient return.</div><div class='line-3 bold-line line'>Join us in this session of the <a class='link' href='https://event.on24.com/wcc/r/2407967/C0E619B11B17049FA4F416ED347B200C/1121613?partnerref=CRM-XP20-DCR-IERPWBRS-smc2'>\"Reimagining the Next Normal with Intelligent supply chain\" webinar series</a>, where leading Industry Experts will discuss:</div><div class='line-4 line'> <ul class='line-list'> <li>How companies are using Intelligent Supply Chain to run a demand-driven planning & ensuring operational resilience</li><li>How embedded intelligence can help establish excellence to define the supply chains of tomorrow</li><li>Established methodologies and tools which successful companies leveraged in their journey to Intelligent Supply Chain, realizing significant value and respond better in challenging situations </li></ul></div><div class='line-5 line'>Explore with leading industry experts on the journey to rev up resiliency and digital transformation in times of change!</div>"
+    }
+}
