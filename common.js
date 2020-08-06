@@ -3,10 +3,10 @@ document.onreadystatechange = () => {
     loadComponents('main', $("#main-container"));
     loadComponents('footer', $("#footer-container"));
 }
-
+https://sidparab10.github.io/ubs-forum-assignment/src/components/header/css/header.css
 loadComponents = (name, container) => {
-    $.get(`./src/components/${name}/${name}.json`, (configData) => {
-        $.get(`./src/components/${name}/${name}.hbs`, (data) => {
+    $.get(`https://sidparab10.github.io/ubs-forum-assignment/src/components/${name}/${name}.json`, (configData) => {
+        $.get(`https://sidparab10.github.io/ubs-forum-assignment/src/components/${name}/${name}.hbs`, (data) => {
             const headerTemplate = Handlebars.compile(data);
             container.html(headerTemplate(configData.data));
         }, 'html');
@@ -28,7 +28,7 @@ addStyleTag = (name, elem) => {
     const count = $('head').find("#" + id).length;
     if (!count) {
         const styleElem = document.createElement("link");
-        styleElem.href = `./src/components/${name}/css/${elem}.css`;
+        styleElem.href = `https://sidparab10.github.io/ubs-forum-assignment/src/components/${name}/css/${elem}.css`;
         styleElem.rel = 'stylesheet';
         styleElem.id = id
         document.head.appendChild(styleElem);
@@ -40,7 +40,7 @@ addScriptTag = (name, elem) => {
     const count = $('head').find("#" + id).length;
     if (!count) {
         const styleElem = document.createElement("script");
-        styleElem.src = `./src/components/${name}/js/${elem}.js`;
+        styleElem.src = `https://sidparab10.github.io/ubs-forum-assignment/src/components/${name}/js/${elem}.js`;
         document.head.appendChild(styleElem);
     }
 }

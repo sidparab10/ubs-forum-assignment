@@ -13,7 +13,7 @@
 .main-wrapper .image-background-container .content-image {
     width: 100%;
     height: 100%;
-    background-image: url(./../../../images/content.jpg);
+    background-image: url(https://sidparab10.github.io/ubs-forum-assignment/src/images/content.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -56,11 +56,11 @@
 }
 
 .main-wrapper .schedule-container .date-icon {
-    background-image: url(./../../../images/date.png);
+    background-image: url(https://sidparab10.github.io/ubs-forum-assignment/src/images/date.png);
 }
 
 .main-wrapper .schedule-container .time-icon {
-    background-image: url(./../../../images/time.png);
+    background-image: url(https://sidparab10.github.io/ubs-forum-assignment/src/images/time.png);
 }
 
 .main-wrapper .schedule-container .label {
